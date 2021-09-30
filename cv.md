@@ -21,10 +21,10 @@ My previous work experience has increased my knowledge of managing Information S
 * Adobe Photoshop, Illustrator, Figma
 ### Languages: 
 
-* ** English ** - Intermediate
-* ** Russian ** - Fluent
-* ** Turkish ** - Pre Intermediate
-* ** Kazakh ** - Native
+* __English__ - Intermediate
+* __Russian__ - Fluent
+* __Turkish__ - Pre Intermediate
+* __Kazakh__ - Native
 ### Code example:
 ``` 
 JavaScript 
