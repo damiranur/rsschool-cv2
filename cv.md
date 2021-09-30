@@ -7,28 +7,35 @@
 - **Email:** damira.cyprus@gmail.com
 - **GitHub:** [damiranur](https://github.com/damiranur)
 
-### About Me
+### About Me:
 
-After ten years of work experience as Project Manager of Information System, I realized that I need to change my direction and discover something new for myself. I thought I had known everything about the projects, which I was running, but it turns out I didn't know nothing what was written under the "hood".
+My previous work experience has increased my knowledge of managing Information Systems and has enabled me to make use of my education in a professional environment. However, my work experience is not enough to perform my new goal of my future career to work as a Web Developer. I’m interested in Web Development because the Web is so huge, just like an ocean, no matter how much you have explored it and it is constantly changing and improving and still continues to amaze you. In a professional area it provides us endless possibilities. 
+### Education:
+* **Bachelor of Information Systems**, June 2010, Kazakh University of Economics, Finance and International Trade, Astana city, Kazakhstan
+* **Bachelor of Human History**, June 2008, E.A.Buketov Karaganda State University, Karaganda city, Kazakhstan
+### Additional skils:
+* HTML
+* CSS
+* JavaScript (basic)
+* Git
+* Adobe Photoshop, Illustrator, Figma
+### Languages: 
 
-### Skills and Proficiency:
-
-- HTML
-- CSS
-- JavaScript (basic)
-- Git
-- Adobe Photoshop, Illustrator, Figma
-
-### Education and experiences:
-
-- dfkvn
-- jngev
-- engel
-- uerfb
-
-### Languages:
-
-- English - Intermediate
-- Russian - Fluent
-- Turkish - PreIntermediate
-- Kakah - Native
+* ** English ** - Intermediate
+* ** Russian ** - Fluent
+* ** Turkish ** - Pre Intermediate
+* ** Kazakh ** - Native
+### Code example:
+``` 
+JavaScript 
+const buildUrl = (address, domen) => {
+  
+if (address.startsWith('/')) {
+  const startsWithSlash = 'https:' + '//' + domen + address;
+  return startsWithSlash;
+} else {
+  const domenaddress = 'https:' + '//' + domen + '/' + address
+  return domenaddress;
+}
+}
+```
